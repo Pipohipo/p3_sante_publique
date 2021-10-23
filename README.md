@@ -16,3 +16,7 @@ L’appel à projets spécifie que l’analyse doit être simple à comprendre p
 4) Élaborer une idée d’application. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
 
 5) Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
+
+
+Source : https://world.openfoodfacts.org/
+Data Fields : https://world.openfoodfacts.org/data/data-fields.txt
